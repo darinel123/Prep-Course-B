@@ -7,7 +7,7 @@ var nuevaString = "hola";
 var nuevoNum = 15;
 
 // Crea una variable booleana:
-var nuevoBool = true;
+var nuevoBool = (10 < 6);
 
 // Resuelve el siguiente problema matemático:
 var nuevaResta = 10 - 5 === 5;
